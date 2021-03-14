@@ -1,0 +1,10 @@
+{
+    "moduleNameMapper": {
+        "src/(.*)": "<rootDir>/src/$1"
+    },
+    "transform": {
+        ".(ts|tsx)": "ts-jest"
+    },
+    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec|tests))\\.[jt]sx?$",
+    "moduleFileExtensions": ["ts", "tsx", "js"]
+}
