@@ -1,6 +1,6 @@
 # React • Typescript • Redux Starter
 
-This is a ready-to-go starter, with fully configured tools, latest libraries and my personal best practices.
+This is a ready-to-go starter, with fully configured tools, the latest libraries, and my personal best practices.
 
 I've been working over the past 2 years with similar setup and I find it very orderly yet flexible for small and mid-size projects. Re-ducks approach doesn't enforce any abstraction, it still allows to take advantage of React  - freedom of organizing stuff.
 
