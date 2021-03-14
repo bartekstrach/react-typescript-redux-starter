@@ -23,6 +23,7 @@ Store organized in a way that is inspired by [alexnm's re-ducks](https://github.
 - Webpack - module bundler
 
 ## Scripts
+| --- | --- |
 | ```npm start``` | run locally
 | ```npm run build``` | build production version
 | ```npm run lint``` | run static analysis
